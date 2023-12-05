@@ -1,0 +1,14 @@
+ git常用命令
+1. git init  【初始化本地库】
+2. git status 【查看本地库状态】
+3. git add    【把文件添加到暂存区】
+4. git commit -m "" 文件名   【把文件提交到本地库中】
+5. git reflog|log  【查看历史记录】
+6. git reset --hard 版本号 【版本穿梭】
+  
+  关于分支的命令
+1. git branch -v   【查看分支】
+2. git branch 分支名   【创建分支】
+3. git checkout 分支名  【切换分支】
+4. git merge 分支名     【分支合并】
+
